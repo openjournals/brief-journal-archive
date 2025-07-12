@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/d4dbcbf82a7ba0e11b4eb5e19a59953e</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/d4dbcbf82a7ba0e11b4eb5e19a59953e.atom"/>
+  <title>Journal of Brief Ideas: Collection Open Research Accelerator</title>
+  <updated>2015-10-27T21:24:07Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/207</id>
+    <published>2015-08-26T09:12:19Z</published>
+    <updated>2015-09-29T19:55:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/060c0b8f513844e21c7db2f0063c6243"/>
+    <title>GeoTag-X: crowdsourced photo analysis for humanitarian crises</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.29582</doi>
+    <content type="html">Photos taken in disaster situations and other humanitarian crises by different people on the ground can potentially be a powerful resource for the response teams. Unfortunately, the manpower needed to process the incredible number of photos coming out of these situations makes this duty impossible for a single organization. Therefore we are turning to the crowd to help us rapidly extract meaningful, relevant and structured data from these photos.
+
+This is why we launched the [GeoTag-X platform](http://geotagx.org), which gathers a series of pilot projects covering different disaster related events, asking volunteers to answer some short and strictly structured questions about photos related to each event. 
+
+Our final aim is to have an open source platform, with a set of tools, projects, and methodology that can be taken by anyone working in a humanitarian crisis and quickly and easily adapted to their needs and redeployed.
+
+GeoTag-X relies almost entirely on volunteers. By actively pursuing an open science methodology GeoTag-X can be flexible and adapt quickly and easily to users’ needs, and volunteers benefit and learn from the process. GeoTag-X code, tools, and methodology is open and accessible via the platform, [GitHub](https://github.com/geotagx), and events. 
+
+[Template for creating GeoTag-X projects](https://github.com/geotagx/geotagx-project-template)
+
+</content>
+    <author>
+      <name>Cervigni, Eleanor</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/208</id>
+    <published>2015-08-26T14:11:08Z</published>
+    <updated>2015-09-29T19:55:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/f0452f0f564e20ed2679335a7e5aab6b"/>
+    <title>Putting 2 million genomes into the public domain and onto the web</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.29584</doi>
+    <content type="html">openSNP is an open-science/data project that aims at making personal genomics data available. Thanks to the rapid bio-technological progress and start-ups like 23andMe, more and more people are getting access to their personal genetic information. In 2015 about 2 ([1](http://blog.23andme.com/news/one-in-a-million/) + [1](http://blogs.ancestry.com/ancestry/2015/07/16/ancestrydna-celebrates-one-million-people-tested/)) million people already have at least partial access to their own personal genomes. As biology is complex and needs large sample sizes, this wealth of data could be highly useful all over the world, for researchers and citizen scientists alike. If only they could get access to it: For privacy and business reasons alike genetic data is frequently kept under lock and key. 
+
+To open up those silos and empower as many people as possible to work with this data, openSNP crowdsources the open data collection by enabling customers to donate their own genetic information into the public domain. At the same time, people can give as detailed annotations about their phenotypes (e.g. eye/hair color, diseases as they wish, and make up new phenotype categories on the fly. Additionally, openSNP mines academic &amp; crowdsourced resources for meta-data about genetic variants. All the data is then easily accessible through the web and different APIs. 
+
+So far the data has been used for teaching, [research](https://hal.archives-ouvertes.fr/hal-01151960/), as well as [art](https://soundcloud.com/thesoundofpeople/the-sound-of-bastian-greshake-6-channels-remixed) and contributed to discussions on [bioethics in the age of citizen science](http://jme.bmj.com/content/early/2015/04/13/medethics-2015-102663.full?g=w_jme_open_tab).
+
+Links:
+* [openSNP](https://openSNP.org)
+* [GitHub Repository](https://github.com/gedankenstuecke/snpr)
+* [Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089204)</content>
+    <author>
+      <name>Greshake, Bastian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/218</id>
+    <published>2015-09-10T08:43:40Z</published>
+    <updated>2020-07-15T21:16:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/b836e89b00fff2f09fede037dd8a7cf0"/>
+    <title>Open Cosmics: cosmic-ray physics for everyone</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.30932</doi>
+    <content type="html">Simple devices like Cloud Chambers, Bubble Chambers, CosmicPi and Crayfis allow us to detect particle decays from cosmic rays which are not visible to the naked eye. Cloud Chambers and Bubble Chambers were used for particle physics research at CERN before the Large Hadron Collider (LHC).
+
+During CERN Webfest we built a basic framework for a distributed network of these devices and we plan to eventually develop a complete grid. This may be used to analyse data, examine results and disseminate it to the public, making it accessible for non-physicists, students, and hobbyists to learn about the cosmos around them. Integrating this project with crowdcrafting allows the public to be involved in identifying the different particle tracks, whilst teaching them about cosmic rays in the process.
+
+This cosmic data will help find answers to a broad spectrum of questions related to cloud formation,  global warming, renewable energy and the universe. Moreover, a recent idea proposed by a group of scientists at the Czech Academy of Sciences who measure cosmic rays on board of spacecrafts, are interested in a public database similar to the one we are proposing.
+
+Git Repositories: [Web application](https://github.com/harunurhan/open-cosmics-mean), [Back-end scripts](https://gist.github.com/onyb/e296bf77557899896f11), [Data analysis engine](https://github.com/sidgan/opencosmics) </content>
+    <author>
+      <name>Azzopardi, Gabriella</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/237</id>
+    <published>2015-09-24T13:21:29Z</published>
+    <updated>2015-09-24T13:21:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/bec7ccbd75a9fd5e44f91b9b453bcd40"/>
+    <title>Software Discovery Dashboard</title>
+    <doi/>
+    <content type="html">This project’s objective is to create an open source web dashboard capable of searching multiple code hosting services, such as Zenodo, Figshare, and GitHub, for the benefit of the research community. The goal of this dashboard is to demonstrate the usefulness of a new metadata standard by utilizing it for easy and effective software discovery and analysis.  
+
+This project allows for furthering open science on the web by creating a single location to search across multiple repositories and services in order to find software and the DOI to use with research.  Having a standardized metadata across these services will allow a project like this to be possible.  Our goal is to implement the ability to search as well as detail some different metrics and information gathered from the services using the standardized metadata to show its potential.
+
+https://github.com/mozillascience/software-discovery-dashboard
+
+</content>
+    <author>
+      <name>Blaine, Adam</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/238</id>
+    <published>2015-09-24T21:13:41Z</published>
+    <updated>2016-05-14T05:17:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/88ecd484a365e705557771cdd20e8a0e"/>
+    <title>Software Discovery Dashboard</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.31400</doi>
+    <content type="html">This project’s objective is to create an open source web dashboard capable of searching multiple code hosting services, such as Zenodo, Figshare, and GitHub, for the benefit of the research community. The goal of this dashboard is to demonstrate the usefulness of a new metadata standard by utilizing it for easy and effective software discovery and analysis.  
+
+This project allows for furthering open science on the web by creating a single location to search across multiple repositories and services in order to find software and the DOI to use with research.  We are leveraging a currently evolving metadata standard to make such searching possible.  Our goal is to implement the ability to search as well as detail some different metrics and information gathered from the services using the standardized metadata to show its potential.
+
+https://github.com/mozillascience/software-discovery-dashboard</content>
+    <author>
+      <name>Neamtu, Stefan</name>
+    </author>
+    <author>
+      <name>Blaine, Adam</name>
+    </author>
+    <author>
+      <name>Mokary, Matthew</name>
+    </author>
+    <author>
+      <name>Coy, Luke</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/239</id>
+    <published>2015-09-28T09:48:52Z</published>
+    <updated>2020-12-07T22:16:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/542c815ec7b61db0426c906c6f0559c3"/>
+    <title>European Citizen Science via the web: potentials, expectations and way ahead</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.31512</doi>
+    <content type="html">We envision a web-enabled European Citizen Science Platform that opens research supported by the European Union for collaborations with the public. Our initial investigations concentrate on environmental sciences and sustainability research in order to support the living within the limits of our planet.
+
+This activity shall advance science by (i) providing easy access to data, services, models, publications, etc.; (ii) listening to emerging debates and areas of interest; and (iii) enabling deep engagement in scientific processes for anybody interested. Web technologies will be a key element in order to reach a wide audience, enable re-use of available resources in innovative applications, and foster collaboration beyond the physical space.
+
+We hope to address questions such as:
+-	Which web-tools would allow you to get as involved in science as desired?
+-	What should be done within Europe in order to support European and non-European citizen?
+-	What would you expect as the European Commission’s contribution to a Citizen Science Platform?
+
+The Open Research Accelerator should help to identify and shape expectations, collect potential components and promising approaches, and avoid developments into undesired directions. This first activity of awareness raising and co-design should initiate a collaborative process beyond the event itself.</content>
+    <author>
+      <name>Schade, Sven</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/242</id>
+    <published>2015-09-29T20:59:58Z</published>
+    <updated>2015-11-24T16:25:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/9806c0ed3b27a42cf4be89374fbc6ae5"/>
+    <title>Modify and run other people's research code in your browser</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.31598</doi>
+    <content type="html">Science makes progress by reusing results and building on them. For research software this is pretty hard (the people writing it often do not have the time to make slick installers like big libraries do). As a result there is not as much reuse as there could be. With [`everware`](//github.com/everware/everware) we are changing this.
+
+With `everware` you can edit and run code from a git repository with one click, in your browser. This significantly reduces the barrier to entry for trying out other people's code on a whim. As a result you will try out and decide to reuse other people's code more often, instead of rolling your own. Furthermore, if reuse is possible, reproducibility comes for free.
+
+Interest in big discoveries like the Higgs boson is massive, imagine how many lay-people would love to be able to run (parts of) the analysis software that discovered the Higgs.
+
+As the author of a research code all you have to do for your repository to be `everware`-ready is provide a `Dockerfile` that describes how to setup all the dependencies. Once this is done other's can launch your code from their browser and experiment with it.
+
+`Everware` builds on [github](//github.com), [docker](//docker.io) and [project jupyter](//jupyter.org). It started as a project at the [CERN webfest 2015](//webfest.web.cern.ch/). You can find [project everware](//github.com/everware/everware) on github.</content>
+    <author>
+      <name>Head, Tim</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/244</id>
+    <published>2015-09-30T17:36:38Z</published>
+    <updated>2020-08-09T06:00:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/af37b26a8f59d0cc6779845f841dd397"/>
+    <title>miniReproducibility Project</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.31626</doi>
+    <content type="html">A valuable but hidden set of data: research trainees spend months to years confirming previously published data. These experiments are not considered publishable. Other trainees in the same field “reinvent the wheel” due to lack of publicly available information.
+
+A simple idea: Imagine the savings in time and resources, reduction in retractions and the impact of each experiment if we knew the following:  10 labs repeated it, 7 found a phenotype and 3 did not. What if a single click could highlight differences in methodology between each experiment?
+ 
+Our vision is to create a gamified portal for researchers (initially focused on students and postdocs) to publish replicated data, compare methodology and provide reproducibility statistics for individual experiments. A user ladder with increasing prestige (pioneer--&gt;scholar---&gt;catalyst), reviewing and commenting rights, and goodies donated by biotech (antibodies, kits etc.), coupled with the real benefit of having publications and peer-reviewing experience will attract trainees and encourage return usage.
+ 
+The act of comparing several submissions and associated methodologies itself has received overwhelming support from a large network of fellow trainees and mentors (~100). We request a technical partnership to allow single experiment submission, review by several “players” and assessment of reproducibility.</content>
+    <author>
+      <name>goyal, girija</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/245</id>
+    <published>2015-09-30T19:06:17Z</published>
+    <updated>2020-09-22T10:09:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/392e5c8390b55f04cdc4c86097228d8e"/>
+    <title>Promoting Open Research among future scientists.</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.31629</doi>
+    <content type="html">It’s easier to mold a human at his childhood days than at later part of his life. The proposed idea is based on this simple fact.
+**Idea:**
+Imagine creating an online platform that acts an incubator for Open Research. The platform could be anything such as a simple mobile app or website. The primary aim of this platform is to teach and spread awareness about Open Research among young students while simultaneously developing the habits of doing open research in them. The platform can be developed in two parts: 
+1.The platform contains information and prospects of Open Research. The information may be provided in the form of online courses or tasks. Upon completion of certain courses/tasks the user’s can be awarded with Open Badges and scores. 
+2. Once the user has received a minimum no of points, allowing him to submit his research proposal. The platform can be developed in such a manner that it connects the proposed idea organizations supporting Open Research or the ones offering fellowships for the same.
+
+It’s important to start the habit of doing open research at early days in one’s life as the next Stephen Hawking’s lies in between the kids.
+</content>
+    <author>
+      <name>Agarwal, Priyank</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/247</id>
+    <published>2015-10-01T01:45:58Z</published>
+    <updated>2016-05-14T05:04:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/9a526d25205b5470bc405cd531f53dc8"/>
+    <title>Teen-Driven Open Science</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.31944</doi>
+    <content type="html">Through the [Hive Mapping Cooperative](http://bit.ly/hivemapping), five youth-serving organizations in Chicago have been working to develop shared systems for teens to collect, analyze, visualize, and share georeferenced data using free and open source tools for mobile data collection, data visualization, and digital mapping. With these tools, we aim to enhance cross-program, teen-driven inquiry into human ecology and urban ecosystems, and foster an open science ethos among teens. This ongoing project was partially [conceived at MozFest 2013](http://hivenyc.org/2013/12/11/mozfest-science-web/) and has been through various iterations since that time. We've been piloting a range of tools for data collection and visualization to varying degrees of success, as well as integration of [Contributorship Badges](https://www.mozillascience.org/projects/contributorship-badges) using the [Chicago City of Learning platform](https://chicagocityoflearning.org/workshop-detail?id=6701) to recognize collaboration and contribution, but we've struggled to identify *accessible* tools for teens to actually collaborate across programs on shared inquiries. 
+
+Through this project, teens (and everyone else) will have access to flexible digital technologies and a networked system to develop, share, and contribute to inquiry projects across programs. With open access to teen-designed research protocols and data, there is the potential for youth to inspire and be inspired by their peers following divergent paths of inquiry, and enlist peers in collecting/interpreting data and developing narratives around locally-relevant issues and topics. </content>
+    <author>
+      <name>Bild, David</name>
+    </author>
+  </entry>
+</feed>

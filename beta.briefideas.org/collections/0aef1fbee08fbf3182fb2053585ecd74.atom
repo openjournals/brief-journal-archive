@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/0aef1fbee08fbf3182fb2053585ecd74</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/0aef1fbee08fbf3182fb2053585ecd74.atom"/>
+  <title>Journal of Brief Ideas: Collection Cannabis</title>
+  <updated>2018-11-08T04:25:59Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/304</id>
+    <published>2016-05-20T03:07:46Z</published>
+    <updated>2016-07-10T19:01:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/ceebf9ed644a4a7d844cdeaa4594df34"/>
+    <title>Cannabis and human creativity: hyper-priming, eureka moments and intermittent abstinence  </title>
+    <doi>http://dx.doi.org/10.5281/zenodo.51795</doi>
+    <content type="html">Cannabis has undeniably been used to prime our imagination and creativity for centuries. As critical thinkers of all walks of life explore the use and impact of cannabis on today's society, one cannot omit the clear ability of the plant to bestow eureka moments upon our senses. Some have termed this experience hyper-priming #http://www.ncbi.nlm.nih.gov/pubmed/20122742, or the ability to transcend different areas of knowledge to build connections between seemingly unrelated fields. Scientific insight should be applied to harness the potential benefits of cannabis hyper-priming and to make it into an effect cognitive tool. Recent research suggests that chronic cannabis use reduces the expression of Cannabinoid 1 receptors (CB1R) in several areas of the human brain. It was also observed that upon controlled abstinence #http://www.ncbi.nlm.nih.gov/pubmed/26858993, CB1R expression is restored to full potential after only 48 hours. Conventional wisdom would thus have it that intermittent abstinence at intervals of 24-48hours, by restoring CB1R expression would provide for enhanced hyper-priming leading to more efficient use of cannabis for cognitive insight. Forget that plant with the 1001 molecules, think about the billion possible ways to use it more effectively to achieve originality and productivity through transcendence.</content>
+    <author>
+      <name>Henry, Philippe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/273</id>
+    <published>2016-01-08T18:21:49Z</published>
+    <updated>2022-04-19T06:00:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/46acc95d5b851cf28facc88ff54b30e7"/>
+    <title>Applying Genomic tools to Cannabis Breeding </title>
+    <doi>http://dx.doi.org/10.5281/zenodo.44530</doi>
+    <content type="html">Humans share a long history with Cannabis, perhaps going back even further back than the dawn of agriculture. As such this plant has traveled the world alongside humanity, consequent introductions of novel variants into the pool of genetics available to farmers and breeders has been both diverse and poorly recorded. While a general consensus has been reached in terms of the general classification of Cannabis into four groups: European Hemp and Chinese Hemp (which can be characterized by low psychoactive potential) and "sativa" and "indica" drug-type plants, the numerous other traits displayed by the genus have been given little attention.  The availability of genomic resources for Cannabis now enables us to implement marker assisted selection programs aimed at identifying the particular genetic variant(s) responsible for traits of interest, such as cannabinoid, terpenoid and anthocyanin profiles responsible for the pharmacological, recreational and coloration properties of common strains. As this information becomes available to breeders, one can only expect that the monopoly enjoyed by some clandestine and licensed operations will be thwarted by brute force produced by the creative and intuitive farmers that have cultivated this plant and introduced and maintained genetic variation into the gene pool of this fascinating domesticated plant. Major benefits include the acceleration of targeted homozygosity.</content>
+    <author>
+      <name>Henry, Philippe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/531</id>
+    <published>2018-11-01T02:49:54Z</published>
+    <updated>2022-03-27T04:14:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/28861b4a81007304af9ce89c18249bad"/>
+    <title>The Atlas of human Interests</title>
+    <doi>https://doi.org/10.5281/zenodo.1476306</doi>
+    <content type="html">Are the Japanese more interested in nanotechnology than the German? How many people want to become musicians? Are salespeople conscientious? In the Behavioral Sciences, studies on the diversity of human interests are scarce. Comprehending better how different groups of people decide to invest their time and effort by pursuing certain interests instead of others can provide individuals, organizations and policymakers with a valuable tool for decision making. Thus, I propose the creation of the Atlas of Human Interests (AoI). Inspired in the Atlas of Economic Complexity, the AoI will provide a longitudinal catalogue indicating which interests people pursue or desire to pursue and in which degree. First, the AoI needs an initial taxonomy of human interests, then those initial categories can evolve through analytical tools. To collect information, people will report (e.g., via questionnaires) which activities (I) they would rather and (II) they actually spend their time. This data will be combined with other measures (e.g., temperament and personality) to generate a comprehensive map containing analytics, correlations, clusters and patterns of interests regarding age, sex, education, nationality, etc. Data and the algorithms will be public, making this research a precious source of information for individuals and also for educators, organizations and policy makers.</content>
+    <author>
+      <name>Araki, Michael</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/532</id>
+    <published>2018-11-06T01:11:03Z</published>
+    <updated>2022-04-19T06:00:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/199d82d72bf64234b8ace849cc20896c"/>
+    <title>Two Single Nucleotide Polymorphisms Tease Apart Hemp, CBDA and THCA Expressing Cannabis</title>
+    <doi>https://doi.org/10.5281/zenodo.1495246</doi>
+    <content type="html">The classification of Cannabis varieties has been increasingly discussed in the past years, particularly within the scope of intellectual property development and protection [Henry 2016](/ideas/46acc95d5b851cf28facc88ff54b30e7). Several publications have developed molecular markers useful to classify these two groups [e.g. Henry 2015](https://peerj.com/preprints/1553/), and the USPTO has begun assessing patent applications, such as that for 100 or more SNPs shown to tease apart hemp from marijuana based on opportunistically collected data [Sawler &amp; Myles, 2016](https://patents.google.com/patent/WO2016197258A1/en). 
+
+More recently, the release of the complete Cannabis chromosome assembly into ten chromosomes (previous public version contained 135'164 scaffolds), brings much needed insight into the inheritance and adaptive introgression of CBDA expression in drug-type cannabis [Grassa et al. 2018](https://www.biorxiv.org/content/early/2018/11/01/458083). 
+
+Based on data from 192 samples, we here propose the use of a set of two Single Nucleotide Polymorphisms (SNPs) found in two disparate regions of the cannabis genome; the mitochondria and the THCA synthase gene (**Table 1**). In conjunction these two molecular markers provide a rapid and cost-effective means to identify **hemp** derived (low) CBDA producing accessions from drug-type (high) **CBDA** and **THCA** expressing varieties.  
+
+**Table 1.**
+
+| **Type** | **Mito_318'683** | **THCAS_8'374** |
+| :---:    |     :---:      |    :---: |
+| Fibre/Hemp   | A/A     | A/A    |
+| CBDA/Drug     | C/C       | A/A      |
+| THCA/Drug     | C/C       | G/G or G/A      |</content>
+    <author>
+      <name>Henry, Philippe</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/1cefdbc506ef90869ea950f23eb672ac</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/1cefdbc506ef90869ea950f23eb672ac.atom"/>
+  <title>Journal of Brief Ideas: Collection Morphologic ambiguity</title>
+  <updated>2022-05-02T10:04:16Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/938</id>
+    <published>2022-05-02T09:59:53Z</published>
+    <updated>2023-09-03T18:11:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/fc0d9c8d50420092baf48a1b72109203"/>
+    <title>Problems in Erzya subject-object-conjugation ambiguity</title>
+    <doi>https://doi.org/10.5281/zenodo.6643877</doi>
+    <content type="html">The Mordvin languages, Erzya and Moksha, are known for their subject and subject-object marking. The cellular structure and usage in the sibling languages diverge. Here, I discribe phenomena in Erzya.
+The subject-object marking in Erzya involves ambiguity and non-ambiguity for 28 non-reflexive relations.
+In the non-past indicatitve, these relations are represented by 15 formatives that can be divided into groups of ten non-ambiguous, 3 two-way ambiguous, and two six-way ambiguous formatives.
+
+Non-ambiguity comprises pairs of specific singular arguments and singular subjects with third person plural objects.
+Plural subjects with third-person objects are two-way ambiguous.
+The remainder comprises two sets of six-way-ambiguous formatives.
+
+Actually, the last set represents seven-way ambiguity, as the third-person-plural form represents an indefinite actor singular or plural. 
+Thus an example:
+«Molʲan lučše vastomot karman, štobu kijak avolʲidʲizʲ nʲejtʲ.» 'Better yet, I'll go and meet you[sg], so that nobody[sg] will see you[sg].'
+Problem: the indefinite pronoun (kijak[sg] 'anybody') has a plural counterpart (kitʲkak), and yet the non-specific, indefinite singular is referenced in the subject marking as third person plural. There is an overlap of formatives in four cells. 
+Questions: Should multiambiguity be seen as default object conjugation marking, and how is the plural indefinite prounoun used?</content>
+    <author>
+      <name>Rueter, Jack</name>
+    </author>
+  </entry>
+</feed>

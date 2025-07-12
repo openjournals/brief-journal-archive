@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/d46a4b4b48fa2ffaa9ddb6dffd4c273b</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/d46a4b4b48fa2ffaa9ddb6dffd4c273b.atom"/>
+  <title>Journal of Brief Ideas: Collection Plant Science</title>
+  <updated>2016-09-20T10:34:37Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/336</id>
+    <published>2016-09-18T13:47:38Z</published>
+    <updated>2016-09-19T06:00:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/c2ee0d247f8fc516a87f2b0f385c6031"/>
+    <title>Carbon concentrations in phytoliths and carbon sequestration in soil</title>
+    <doi>https://doi.org/10.5281/zenodo.154351</doi>
+    <content type="html">In recent years there has been much work on the possibility that carbon could be sequestered in phytoliths and contribute to solving global warming.&lt;sup&gt;[1](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2009.02118.x/full), [2](http://link.springer.com/article/10.1007/s11368-016-1527-x)&lt;/sup&gt; There have been a number of calculations of how much is sequestered globally. The crucial figure in these calculations is the concentration of carbon in the phytoliths that is used, so-called phytolith occluded carbon. These figures are derived from phytoliths that have been acid digested or dry ashed at 450-500&lt;sup&gt;o&lt;/sup&gt;C. Values vary from less than 0.1% to 6% depending on the technique used. But are any of these measurements realistic? In native unprocessed material the lemma macrohair from *Phalaris canariensis* contained 40% silica, 55%, polysaccharides and 5% proteins.&lt;sup&gt;[3](http://www.sciencedirect.com/science/article/pii/S0176161787800287)&lt;/sup&gt; At maturity these hairs consist entirely of wall material. I know of no data for lumen deposits, which undoubtedly have a higher percentage silica in the native state. Some of the carbon in both cell wall and lumen phytoliths cannot be accessed by hot acid or dry ashing. I suspect that more carbon is inaccessible to breakdown processes in soil than is estimated by our “occluded carbon” determinations. My question is whether these measurements are a good estimate of what is present in soil phytoliths?</content>
+    <author>
+      <name>Hodson, Martin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/282</id>
+    <published>2016-02-07T10:15:13Z</published>
+    <updated>2016-02-08T06:00:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/d599735799a522da7b61bd2937a4867e"/>
+    <title>Spore coat of liverworts: potential candidate for future space suits</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.45659</doi>
+    <content type="html">Future space suits require greater mobility as mars exploration is proposed by NASA and other space agencies. Currently space suits are designed for zero gravity and low gravity situations. Such space suits will be unviable when used at Mars and will make them less mobile in high gravity situations. Space suits need to be radiation resistant, heat resistant and possess high tensile strength, while being light weight, to encounter high radiations and cosmic neutrons. Liverworts spores have thick spore coat around them which is present to save them from harsh environmental conditions and for greater mobility (being lightweight). They were designed in such a way to protect germplasm from dying in harsh conditions. Liverworts spores consists of sporopollenin and cutin, made of phenolic acids p-coumaric (pCA) and ferulic acid (FA) are  proven to be UV resistant and even found in areas where ozone layer is depleted. Sporopollenin is even resistant to acetolysis, heat and desiccation. Manipulation of metabolic pathways involved in synthesis of sporopollenin and cutin and large scale production by involving gene cloning and tissue culture can lead to their large scale production, by bioreactors and optimizing bioprocesses we can enhance their large scale synthesis and can use to manufacture space suits.
+
+</content>
+    <author>
+      <name>yadav, hemendra</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/273</id>
+    <published>2016-01-08T18:21:49Z</published>
+    <updated>2022-04-19T06:00:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/46acc95d5b851cf28facc88ff54b30e7"/>
+    <title>Applying Genomic tools to Cannabis Breeding </title>
+    <doi>http://dx.doi.org/10.5281/zenodo.44530</doi>
+    <content type="html">Humans share a long history with Cannabis, perhaps going back even further back than the dawn of agriculture. As such this plant has traveled the world alongside humanity, consequent introductions of novel variants into the pool of genetics available to farmers and breeders has been both diverse and poorly recorded. While a general consensus has been reached in terms of the general classification of Cannabis into four groups: European Hemp and Chinese Hemp (which can be characterized by low psychoactive potential) and "sativa" and "indica" drug-type plants, the numerous other traits displayed by the genus have been given little attention.  The availability of genomic resources for Cannabis now enables us to implement marker assisted selection programs aimed at identifying the particular genetic variant(s) responsible for traits of interest, such as cannabinoid, terpenoid and anthocyanin profiles responsible for the pharmacological, recreational and coloration properties of common strains. As this information becomes available to breeders, one can only expect that the monopoly enjoyed by some clandestine and licensed operations will be thwarted by brute force produced by the creative and intuitive farmers that have cultivated this plant and introduced and maintained genetic variation into the gene pool of this fascinating domesticated plant. Major benefits include the acceleration of targeted homozygosity.</content>
+    <author>
+      <name>Henry, Philippe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/206</id>
+    <published>2015-08-19T10:53:58Z</published>
+    <updated>2015-09-03T17:54:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/839221c4a79ee72d68db5c4209371835"/>
+    <title>A proposal for sequential approach for arsenic removal from top-soil</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.29583</doi>
+    <content type="html">Arsenic contamination of ground water and soil is a vexing problem in several countries, including India. For water treatment there have been several effective, economical and commercially available [methods] (http://www.hindawi.com/journals/tswj/2014/304524/#B161). [Phytoremidiation] (http://www.hindawi.com/journals/ijce/2011/939161/), [microbial remediation] (http://link.springer.com/article/10.1007%2Fs00253-013-4838-5), [genetically modified plants with bacterial genes and hybrid approach of both bacteria and plant accumulating Arsenic] (http://www.sciencedirect.com/science/article/pii/S098194280201375X) have been used for Arsenic removal from soil, with some success in field studies.  We propose a novel hybrid approach of removing iron from soil, which interferes with freely available arsenic, followed by further mobilization of arsenic by increasing soil acidification along with absorption by suitable plants and fungi, followed by removal of arsenic from the biomass. We propose removal of iron by fertilizing soil with iron accumulating bacteria. Following the initial treatment, we would then add detritus to decrease soil pH, along with arsenic accumulating non-edible plants and fungi that produce easily harvestable biomass but cannot be utilized directly by humans. The next step would be solubilization of harvested biomass in a fermenter, which can also be used to produce natural gas. The solubilized slurry can then be treated with several successful approaches for [slurry] (http://www.neptjournal.com/journal-details.php?id=49&amp;q_id=7) and [water treatment] (http://www.hindawi.com/journals/tswj/2014/304524/#B161). We have not proposed combining microbial bioaccumulation and using chemical methods due to cost and feasibility issues. Our sequential approach presents a possibly effective and practical approach of soil arsenic remediation. 
+</content>
+    <author>
+      <name>Khurana, Sukant </name>
+    </author>
+    <author>
+      <name>Tripathi, Naveen </name>
+    </author>
+    <author>
+      <name>Sikdar, Arindam</name>
+    </author>
+    <author>
+      <name>Jagmag, Shail Adrian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/209</id>
+    <published>2015-08-26T17:18:57Z</published>
+    <updated>2015-09-01T03:58:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/5387495e30493fec826d81f58a973d8f"/>
+    <title>Immobilization and use of pure cultures and microbial consortium isolated from specialized niches for improved crop productivity</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.29595</doi>
+    <content type="html">Now a day, sustainable agricultural practice for increased production is most significant concerns. The fertile agricultural land is reducing day by day due to increased population and overburden of excessive use of chemical fertilizer and pesticides. The uses of immobilized pure culture microorganisms and their extremozymes and the microbial consortium have increased demand. It is observed that immobilized microbial pure culture and the microbial consortium have been repeatedly reused and there was no decline in efficiency of immobilized cells. Thus, usage of immobilized microbial pure culture and microbial consortium (such as Burkholderia, Azotobacter, Azospirillium,Pseudomonas, Rhizobium  Bacillus,and Serratia and  Plant growth promoting rhizobacteria (PGPR) like Methylobacterium, Exiguobacterium, Azoarcus, Paenibacillus and Pantoea etc.) isolated from specialized niches may be promising application in agriculture for improved crop productivity.
+</content>
+    <author>
+      <name>Rekadwad, Bhagwan</name>
+    </author>
+    <author>
+      <name>Khobragade, Chandrahas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/141</id>
+    <published>2015-04-07T09:10:43Z</published>
+    <updated>2015-08-06T21:44:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/61b79e3f1978c1dd240411779488a985"/>
+    <title>How Significant are Conifers for the Silicon Biogeochemical Cycle?</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.16669</doi>
+    <content type="html">The conifers were generally shown by [Hodson et al. (2005)](http://aob.oxfordjournals.org/content/96/6/1027.short) to be low silicon accumulators. The apparent reason is that conifers (and many gymnosperms) largely lack NIPIIs, aquaporins that are involved in silicon transport in plants ([Trembath-Reichert et al. 2015](http://www.pnas.org/content/early/2015/03/24/1500289112.abstract)). This led Trembath-Reichert et al. to propose that the terrestrial silicon biogeochemical cycle would be decreased in the Mesozoic Era because of the dominance of conifers.
+However, scrutiny of the supplementary data from Hodson et al. suggests that there are some conifer species (e.g. *Abies alba*, *Larix decidua*, *Picea abies*) where silica is over 2% dry weight in the needles, well within the range for the silicon-accumulating Poales (which include the grasses). Moreover, in species that retain their needles longer than one year, silicon accumulates steadily over several seasons ([Hodson and Sangster, 1998](http://aob.oxfordjournals.org/content/82/3/375); [Wyttenbach et al. 1991](http://onlinelibrary.wiley.com/doi/10.1002/jpln.19911540403/abstract)).
+[Gerard et al. (2008)](http://www.sciencedirect.com/science/article/pii/S0016703707006679) modeled the silicon biogeochemical cycle in a Douglas fir (*Pseudotsuga menziesii*) forest. They found that the needles contained up to 2.7% silica, that 60% of the biogeochemical cycle was controlled by biological processes, and it was calculated that 37% of silicon was taken up actively by the trees. The available data suggest that some important conifer species, including fir, larch, spruce and Douglas fir, can accumulate significant amounts of silica in their needles, and that silicon cycling in conifer-dominated systems will not necessarily be lower.
+</content>
+    <author>
+      <name>Hodson, Martin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/80</id>
+    <published>2015-02-21T08:00:25Z</published>
+    <updated>2023-07-14T07:41:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/e072f71ecc48301cfc5f9d55b49e167c"/>
+    <title>Ecofriendly Management of Plant Diseases by Biosynthesised Secondary Metabolites of Trichoderma spp.</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.15571</doi>
+    <content type="html">The status of Trichoderma spp. in established research and industry is in view of its twin focal advantages of plant growth promotion and biological control. However, these features are fully expressed in field conditions primarily when an area-specific strain is applied in its respective region and, secondly, when the whole organism formulation broadcasted has retained ample viability (high spore count). On the contrary, a formulation of biosynthesised antimicrobial secondary metabolites would have a much longer shelf life, a higher efficiency against soil borne phytopathogens particularly against bacteria. In addition, a consortium of antimicrobial metabolites against individual pathogens could be formulated and used regardless of geographic location where the incidence of that particular disease is high. This approach would be unsurpassed by current technology, as here the formulation would specifically target a particular pathogen while remaining soil microbiota would remain unaffected. Our foremost interest is to improve or replace the conventional whole organism formulations of biopesticides so that next-generation biosynthesised antimicrobial secondary metabolites based formulations could be developed for management of phytopathogens.</content>
+    <author>
+      <name>Keswani, Chetan</name>
+    </author>
+  </entry>
+</feed>

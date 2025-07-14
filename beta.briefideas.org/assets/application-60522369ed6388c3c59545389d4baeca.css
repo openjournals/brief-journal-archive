@@ -35,3 +35,14 @@
   color: #4d3d21;
   text-decoration: none;
 }
+
+/* Hide login-block div */
+.login-block {
+  display: none !important;
+}
+
+/* Hide second item in navbar */
+.nav.navbar-nav li:nth-child(2) {
+  display: none !important;
+}
+

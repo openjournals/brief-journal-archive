@@ -4,7 +4,7 @@
 # Basic settings
 title: "The Journal of Brief Ideas"
 description: "A static archive of the Journal of Brief Ideas"
-url: "https://your-username.github.io"  # Replace with your actual GitHub Pages URL
+url: "https://beta.briefideas.org"
 baseurl: ""
 
 # Enable pretty URLs

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/6bf4bc983ce72870e7c022c496be3b57</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/6bf4bc983ce72870e7c022c496be3b57.atom"/>
+  <title>Journal of Brief Ideas: Collection Mydeas</title>
+  <updated>2024-06-24T16:55:03Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/1030</id>
+    <published>2022-12-03T19:49:04Z</published>
+    <updated>2023-01-15T22:10:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/7ea1e6e01122741e26a887b18178db3b"/>
+    <title>Peer-review reforms necessary for transfiguring the literature curation sector</title>
+    <doi/>
+    <content type="html">Peer-review is considered an impeccable method for the knowledge creation pipeline through scholarly publishing. However, there is no definite universal guideline for conducting and validating the peer-review process; neither do peer reviewers receive credits for the amount of time and intellect they invest in this. 
+
+In this chaotic situation, I like to recommend the following:
+1) Development and periodic revision of an international guideline which is flexible to adopt by journals of all disciplines.
+2) Recognition of peer-reviewers precious time and remarks. It should be mandatory to include the names of peer-reviewers at the end or somewhere in the published manuscript. 
+3) Competitive value of peer-review needs to be credited during the recruitment and promotion of researchers. It must be emphasized in the job description in order to outmode the conventional mindset.  
+
+All stakeholders involved in this reform ranging from publishing houses to recruiting managers must cooperate. An international peer-review council has to be established to develop, execute and revise the standard guidelines. Regular training can be arranged to propagate peer-reviewing skills and awareness of the importance of it.</content>
+    <author>
+      <name>Dutta, Debprasad</name>
+    </author>
+  </entry>
+</feed>

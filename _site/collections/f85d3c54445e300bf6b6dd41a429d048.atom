@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/f85d3c54445e300bf6b6dd41a429d048</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/f85d3c54445e300bf6b6dd41a429d048.atom"/>
+  <title>Journal of Brief Ideas: Collection Data Science @ LHC</title>
+  <updated>2016-02-26T21:34:14Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/260</id>
+    <published>2015-12-22T22:54:51Z</published>
+    <updated>2016-01-06T06:00:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/48be7c9cc3de0c437011525e9d0b0180"/>
+    <title>Brief Ideas for the Data Science at LHC Workshop 2015</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.44357</doi>
+    <content type="html">The Data Science @ LHC workshop was a resounding success. We do not plan to have traditional proceedings tied to individual talks, but we do want to capture the ideas that were generated during the workshop. With that in mind, we want to try something new: we encourage you to submit contributions to the Journal of Brief Ideas. Each contribution is capped at 200 words, so this provides a lightweight method of recording ideas that came up during the workshop. They do not have to be tied to a particular talk or speaker, and you can even submit several ideas with a different set of authors. The goal is to lay the groundwork for new collaborations and follow up studies, not to document completed research. As this is a new way of doing things, please let us know what you think or if need help with anything. Each publication will receive a DOI so that it can be cited by other publications and collected by INSPIRE as contributions to the conference.
+Important : fill in your brief ideas by 22 January.
+Very important: please use this tag: DSLHC when composing the idea so that we can easily aggregate them.</content>
+    <author>
+      <name>Cranmer, Kyle</name>
+    </author>
+    <author>
+      <name>Head, Tim</name>
+    </author>
+    <author>
+      <name>vlimant, jean-roch</name>
+    </author>
+    <author>
+      <name>Gligorov, Vladimir</name>
+    </author>
+    <author>
+      <name>Lowe, Andrew</name>
+    </author>
+    <author>
+      <name>Pierini, Maurizio</name>
+    </author>
+    <author>
+      <name>Louppe, Gilles</name>
+    </author>
+    <author>
+      <name>Rousseau, David</name>
+    </author>
+    <author>
+      <name>Spiropulu, Maria</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/263</id>
+    <published>2015-12-25T11:46:30Z</published>
+    <updated>2015-12-31T05:14:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/918f1ccab7dc2c79b11022a82e098689"/>
+    <title>Data Science and High Energy Physics collaboration enforcement by Higher Education Institutions </title>
+    <doi>http://dx.doi.org/10.5281/zenodo.35718</doi>
+    <content type="html">Data Science @ LHC workshops have been intensifying cooperation in the Data Science (DS) and High Energy Physics (HEP) professional communities. The need for such cooperation risen substantially in recent years, since it requires combining competences in HEP of everyone who are working in different experimental groups of the LHC experiment, as well as in Data Mining (DM) successfully applying up-to-date techniques of machine learning and big data management in various non-physics fields. One way for such systematic combining competences could be a join of DM and HEP experts (with ensuring adequate immersion in the complex and specific area of HEP, quite a number of involved professionals, methodological support of processes and their continuous development) on the Higher Education Institution platform with appropriate research and/or educational initiatives - Master and PHD educational programs, joint scientific laboratories etc. It allows combining in the same university environment researchers, teaching staff, students who are interested in DM and HEP and have suitable background. It could provide stable ideas and staff exchange and development. It would be useful to launch such an initiative (perhaps on the basis of the LHC) as a working group (or its sector) including interested authoritative universities. The working group would discuss methods and formats for scientific and educational projects for DM and HEP in higher education, the possibilities of financial support for such projects, joint activities for their development with the support of the LHC community etc.</content>
+    <author>
+      <name>Zamyatin, Alexander</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/272</id>
+    <published>2016-01-07T15:28:33Z</published>
+    <updated>2016-01-08T06:01:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/10ebd8fea8726550c16401ec5622aa44"/>
+    <title>When to worry about negative weights in MVA training for HEP analysis</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.44441</doi>
+    <content type="html">A discussion at DS@LHC2015 concerned the treatment of negative weights in MVA training. This is relevant for HEP since the advent of MC generators at NLO in QCD, as [the matching of Matrix-Element to Parton-Shower generators](http://dx.doi.org/10.1088/1126-6708/2002/06/029) assigns negative weights to a fraction of the events with non-uniform probability.
+MVA experts remarked the technical difficulty of sign-aware training, although preliminary procedures exist for some tools.
+When should a HEP analyst worry?
+Treating all events as positive is a mismodeling; that does not make MVA outcome "incorrect", but possibly sub-optimal (similarly to using fast detector simulations for training and [GEANT](http://dx.doi.org/10.1016/S0168-9002(03)01368-8) for testing, as [O(10%)-level mismodelings](http://dx.doi.org/10.1088/1742-6596/513/2/022012) are usually tolerated in the former). Systematic uncertainties (e.g., QCD scale) may lead to worse mismodeling. 
+Before investing time on addressing negative weights treatment, an analyst should check if ignoring the sign would lead to large mismodeling in some important kinematic region, with "large" defined as "larger than any systematic uncertainty"; e.g., by comparing the normalized distributions of positive-only and negative-only events for the most discriminating MVA inputs: if the difference is larger than between typical systematic variations, it is legitimate to worry. Alternatively, after a sign-blind training, this test can be done on the MVA output.</content>
+    <author>
+      <name>Giammanco, Andrea</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/278</id>
+    <published>2016-01-20T10:40:16Z</published>
+    <updated>2016-02-02T18:17:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/b082ab5e63d400dab21a3ae8ffe4c2aa"/>
+    <title>Supervised and unsupervised machine learning approach to the CMS data quality monitoring</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.45024</doi>
+    <content type="html">The CMS experiment at the LHC is one of the biggest and most complex general purpose detectors ever built. The constant monitoring of the data quality is vital to guarantee a proper and efficient operation of the detector and reliable physics results. The choice of the key variables to be monitored by shifters and experts in the Data Quality Monitoring (DQM) framework relies on the expertise of the detector operators. The use of supervised machine learning techniques in the process, to be trained with the data collected and scrutinised in Run1, would allow saving a considerable fraction of the manpower in the data quality assessment process. From recent data taking emerged clearly that, with the constant evolution of the detector hardware and software, not all the corners are covered by the current DQM system in the phase space of the failures. The approach to data quality with unsupervised feature learning techniques, would highlight the presence of unforeseen patterns and anomalies while taking data. A fast feedback to experts and the chance to predict failures before they manifest themselves, would make the CMS collaboration save data usable for the final analyses and money at the same time.</content>
+    <author>
+      <name>De Guio, Federico</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/285</id>
+    <published>2016-02-26T21:34:14Z</published>
+    <updated>2016-04-03T17:04:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/ff0489d51bdb17359cef823c1d6b7029"/>
+    <title>Create standalone simulation tools to facilitate collaboration between HEP and machine learning community</title>
+    <doi>http://dx.doi.org/10.5281/zenodo.46864</doi>
+    <content type="html">Discussions at recent workshops have made it clear that one of the key barriers to collaboration between high energy physics and the machine learning community is access to training data. Recent successes in data sharing through the [HiggsML](http://doi.org/10.7483/OPENDATA.ATLAS.ZBP2.M5T8) and [Flavours of Physics](https://www.kaggle.com/c/flavours-of-physics/data) Kaggle challenges have borne much fruit, but required significant effort to coordinate.
+
+While static simulated datasets are useful for challenges, in the course of investigating new machine learning techniques it is advantageous to be able to generate training data on demand (e.g. Refs. [1](https://archive.ics.uci.edu/ml/datasets/HEPMASS), [2](https://archive.ics.uci.edu/ml/datasets/SUSY), [3](https://archive.ics.uci.edu/ml/datasets/HIGGS) ). 
+Therefore we recommend efforts be made to produce the ingredients required to facilitate such collaboration:
+   * Specific challenges for HEP experiments should be fully specified such that minimal domain-specific knowledge is required to attack them.
+   * Stand-alone simulators should be made open source. They should be developed to be easy to use without domain-specific expertise, while still being representative of real experimental challenges. Such a simulation will permit non-HEP researchers to generate realistic HEP datasets for training and testing. These simulators could range from truth-level simulation of a hard scattering to fast simulation like [Delphes](http://dx.doi.org/10.1007/JHEP02(2014)057), to full [GEANT4](http://dx.doi.org/10.1016/S0168-9002(03)01368-8) simulation of sensor arrays.
+   * Performance metrics (objective functions) and operational constraints should be defined to evaluate proposed solutions.
+</content>
+    <author>
+      <name>Cranmer, Kyle</name>
+    </author>
+    <author>
+      <name>Head, Tim</name>
+    </author>
+    <author>
+      <name>vlimant, jean-roch</name>
+    </author>
+    <author>
+      <name>Gligorov, Vladimir</name>
+    </author>
+    <author>
+      <name>Pierini, Maurizio</name>
+    </author>
+    <author>
+      <name>Louppe, Gilles</name>
+    </author>
+    <author>
+      <name>Ustyuzhanin, Andrey</name>
+    </author>
+    <author>
+      <name>Kégl, Balázs</name>
+    </author>
+    <author>
+      <name>Elmer, Peter</name>
+    </author>
+    <author>
+      <name>Pavez, Juan</name>
+    </author>
+    <author>
+      <name>Farbin, Amir</name>
+    </author>
+    <author>
+      <name>Gleyzer, Sergei</name>
+    </author>
+    <author>
+      <name>Schramm, Steven</name>
+    </author>
+    <author>
+      <name>Heinrich, Lukas</name>
+    </author>
+    <author>
+      <name>Williams, Michael</name>
+    </author>
+    <author>
+      <name>Müller, Christian Lorenz</name>
+    </author>
+    <author>
+      <name>Whiteson, Daniel</name>
+    </author>
+    <author>
+      <name>Sadowski, Peter</name>
+    </author>
+    <author>
+      <name>Baldi, Pierre</name>
+    </author>
+  </entry>
+</feed>

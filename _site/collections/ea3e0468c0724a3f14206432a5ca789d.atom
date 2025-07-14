@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/ea3e0468c0724a3f14206432a5ca789d</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/ea3e0468c0724a3f14206432a5ca789d.atom"/>
+  <title>Journal of Brief Ideas: Collection papers</title>
+  <updated>2021-09-14T09:02:10Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/880</id>
+    <published>2021-09-13T14:44:32Z</published>
+    <updated>2021-11-01T11:48:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/4051909f2fe237e3dad1a1acce5343ad"/>
+    <title>Stage Structured Hybrid Model for Complex Systems Modelling</title>
+    <doi>https://doi.org/10.5281/zenodo.5504398</doi>
+    <content type="html">Stochasticity and spatial distribution of pathogens play a critical role in determining the outcome of an infection. 1 in a million immune system cells are specific to a particular pathogen. The serendipitous encounter of rare immune system cells with its fated antigen can determine the mortality of the infected animal. Moreover pathogens may remain initially localized in a small volume of tissue. Hence stochastic and spatial aspects play an important role in pathogenesis, especially early on in the infection. Current efforts at investigating the effect of stochasticity and space in modeling of host immune response and pathogens use agent based models (ABMs). However these are computationally expensive. Population level approaches like ordinary differential equations (ODEs) are computationally tractable. However they make simplifying assumptions that are unlikely to be true early on in the infection. I propose a stage-structured hybrid model that strikes a balance between the detail of representation of an ABM and the computational tractability of an ODE model. It uses a spatially explicit ABM in the initial stage of infection, and a coarse-grained, computationally tractable ODE model in the latter stages of infection. Such an approach might hold promise in modeling of infectious diseases and other complex systems.</content>
+    <author>
+      <name>Banerjee, Soumya</name>
+    </author>
+  </entry>
+</feed>

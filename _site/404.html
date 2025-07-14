@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>The Journal of Brief Ideas | A static archive of the Journal of Brief Ideas</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="The Journal of Brief Ideas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A static archive of the Journal of Brief Ideas" />
+<meta property="og:description" content="A static archive of the Journal of Brief Ideas" />
+<link rel="canonical" href="http://localhost:4000/404.html" />
+<meta property="og:url" content="http://localhost:4000/404.html" />
+<meta property="og:site_name" content="The Journal of Brief Ideas" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The Journal of Brief Ideas" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A static archive of the Journal of Brief Ideas","headline":"The Journal of Brief Ideas","url":"http://localhost:4000/404.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=eca52d47f100930ded99bb9de71205311bb78f32">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">The Journal of Brief Ideas</a></h1>
+      
+
+      <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Page Not Found - The Journal of Brief Ideas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .loading {
+            display: none;
+            margin: 20px 0;
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Page Not Found</h1>
+        <p>We're looking for the page you requested...</p>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Redirecting...</p>
+        </div>
+        
+        <div id="error-message" style="display: none;">
+            <p>Sorry, the page you're looking for doesn't exist.</p>
+            <p><a href="/">Return to homepage</a></p>
+        </div>
+    </div>
+
+    <script>
+        (function() {
+            var path = window.location.pathname;
+            var hash = window.location.hash;
+            var search = window.location.search;
+            
+            // Don't redirect if this is already an HTML file or the homepage
+            if (path === '/' || path.endsWith('.html') || path.endsWith('.htm')) {
+                document.getElementById('error-message').style.display = 'block';
+                return;
+            }
+            
+            // Show loading indicator
+            document.getElementById('loading').style.display = 'block';
+            
+            // Function to test if a URL exists
+            function testURL(url, callback) {
+                var xhr = new XMLHttpRequest();
+                xhr.onreadystatechange = function() {
+                    if (xhr.readyState === 4) {
+                        callback(xhr.status === 200);
+                    }
+                };
+                xhr.open('HEAD', url, true);
+                xhr.send();
+            }
+            
+            // Try adding .html extension
+            var htmlPath = path + '.html';
+            
+            testURL(htmlPath, function(exists) {
+                if (exists) {
+                    // Redirect to the .html version
+                    window.location.replace(htmlPath + search + hash);
+                } else {
+                    // Try with index.html if it's a directory-like path
+                    var indexPath = path.endsWith('/') ? path + 'index.html' : path + '/index.html';
+                    
+                    testURL(indexPath, function(indexExists) {
+                        if (indexExists) {
+                            window.location.replace(indexPath + search + hash);
+                        } else {
+                            // No valid redirect found, show error
+                            document.getElementById('loading').style.display = 'none';
+                            document.getElementById('error-message').style.display = 'block';
+                        }
+                    });
+                }
+            });
+        })();
+    </script>
+</body>
+</html> 
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

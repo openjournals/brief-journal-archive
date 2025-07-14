@@ -1,0 +1,51 @@
+# Jekyll configuration for GitHub Pages
+# This enables pretty URLs without .html extensions
+
+# Basic settings
+title: "The Journal of Brief Ideas"
+description: "A static archive of the Journal of Brief Ideas"
+url: "https://your-username.github.io"  # Replace with your actual GitHub Pages URL
+baseurl: ""
+
+# Enable pretty URLs
+permalink: pretty
+
+# Set defaults for all HTML files
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      permalink: /:path/
+
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Include/exclude files
+include:
+  - .htaccess
+  - .nojekyll
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - .git/
+  - .DS_Store
+
+# Keep vendor assets accessible
+keep_files:
+  - vendor/
+
+# Enable extensionless URLs
+extensions:
+  - html
+  - htm
+
+# This tells GitHub Pages to process the site through Jekyll 

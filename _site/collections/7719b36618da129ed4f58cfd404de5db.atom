@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beta.briefideas.org,2005:/collections/7719b36618da129ed4f58cfd404de5db</id>
+  <link rel="alternate" type="text/html" href="https://beta.briefideas.org"/>
+  <link rel="self" type="application/atom+xml" href="https://beta.briefideas.org/collections/7719b36618da129ed4f58cfd404de5db.atom"/>
+  <title>Journal of Brief Ideas: Collection Research Outputs</title>
+  <updated>2024-06-24T16:54:22Z</updated>
+  <entry>
+    <id>tag:beta.briefideas.org,2005:Idea/1200</id>
+    <published>2024-06-02T00:55:03Z</published>
+    <updated>2024-09-30T07:53:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://beta.briefideas.org/ideas/8745af354485d0428e23f7d1751274f0"/>
+    <title>Gender Commonality in the Upregulated Transcriptome of Patients with Ischemic Stroke</title>
+    <doi>https://doi.org/10.5281/zenodo.12660228</doi>
+    <content type="html">The present study systematically searched the Gene Expression Omnibus (GEO) DataSets for and retrieved the GSE22255 dataset that included transcriptomic data from Ischemic Stroke patients. This was an expression profiling by array using peripheral blood mononuclear cell samples. The mRNAs with adjusted P-value &lt; 0.05    and log2FC ≥ 2 were deemed as significant Differentially Expressed Genes (DEGs). DEGs were compared between and within gender subjects from patients in reference to control groups. 
+
+When male stroke patients were compared with male controls, the top upregulated gene was the C-X-C motif chemokine Ligand 3 also known as CXCL3 (log2FC =6.77, P value=2.73 e-6). Likewise, when female stroke patients were compared over female controls, the top upregulated gene was again CXCL3 (log2FC =3.83, P value=0.035). However, the CXCL3 gene (log2FC =5.15, P value=8.98 e-4) was found to be significantly upregulated in male over female patients with stroke.
+
+CXCL3 plays a key role in neuroinflammation by acting as a chemoattractant for neutrophils. This analysis provides evidence of CXCL3 as a marker for ischemic stroke in both genders but men have more severe neuroinflammation in acute ischemic attack. Laboratory studies are needed to validate the gender commonality of CXCL3 expression in stroke.</content>
+    <author>
+      <name>Dutta, Debprasad</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Original stylesheets -->
+  <link rel="stylesheet" media="all" href="{{ '/assets/application-60522369ed6388c3c59545389d4baeca.css' | relative_url }}" />
+  
+  <!-- Bootstrap CSS -->
+  <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- MathJax -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      messageStyle: 'none', 
+      showMathMenu: false, 
+      tex2jax: {
+        preview: 'none', 
+        inlineMath: [['$','$']], 
+        displayMath: [['$$','$$']]
+      }
+    });
+  </script>
+  <script type="text/javascript" src="{{ '/vendor/MathJax.js' | relative_url }}"></script>
+  
+  <!-- Link handler for clean URLs -->
+  <script src="{{ '/assets/link-handler.js' | relative_url }}"></script>
+</head>
+<body>
+  <div class="container">
+    {% include archive-banner.html %}
+    
+    {{ content }}
+  </div>
+  
+  <!-- Original JavaScript -->
+  <script src="{{ '/assets/application-068d0068f67b602546b7356d9a857cd0.js' | relative_url }}"></script>
+</body>
+</html> 

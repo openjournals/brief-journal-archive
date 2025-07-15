@@ -1,123 +1,85 @@
-# GitHub Pages Setup for Extensionless URLs
+# Brief Ideas Archive
 
-This repository contains the necessary files to enable URLs without `.html` extensions on GitHub Pages.
+A static Jekyll-based archive of **The Journal of Brief Ideas** - a research journal for publishing brief scientific ideas in 200 words or less.
 
-## Quick Setup
+## About The Journal of Brief Ideas
 
-1. **Add the configuration files** to your repository root:
-   - `_config.yml` - Jekyll configuration
-   - `404.html` - Custom 404 page with redirect logic
-   - `Gemfile` - Jekyll dependencies (optional)
+The Journal of Brief Ideas was a research journal composed entirely of 'brief ideas'. The goal was to provide a place for short ideas to be described - in 200 words or less - for these ideas to be archived, searchable and citable.
 
-2. **Enable GitHub Pages** in your repository settings:
-   - Go to Settings → Pages
-   - Select source: "Deploy from a branch"
-   - Choose branch: `main` (or your default branch)
-   - Folder: `/ (root)`
+**Current Status**: The journal is currently in stasis and archived for now. However, we are looking for technical help to restart. If you think you could help, see the [GitHub issue](https://github.com/openjournals/brief-ideas/issues/219) for more information.
 
-3. **Wait for deployment** (usually 1-2 minutes)
+## Live Site
 
-## How It Works
+The archived site is deployed at: [https://beta.briefideas.org](https://beta.briefideas.org)
 
-### Method 1: Jekyll Configuration (`_config.yml`)
-- Enables Jekyll processing on GitHub Pages
-- Configures pretty URLs automatically
-- Works best for new sites or when restructuring is acceptable
 
-### Method 2: Custom 404 Page (`404.html`)
-- **Most effective for existing sites**
-- When someone visits `/users/someuser` (without `.html`)
-- GitHub Pages shows the 404 page
-- JavaScript checks if `/users/someuser.html` exists
-- If found, automatically redirects to the correct URL
-- Seamless user experience
+## Development
 
-### Method 3: Link Handler JavaScript (`assets/link-handler.js`)
-- **Optional enhancement**
-- Automatically removes `.html` from internal links
-- Add `<script src="/assets/link-handler.js"></script>` to your HTML files
-- Keeps your existing links working while displaying clean URLs
+### Prerequisites
 
-## Testing
+- Ruby 2.7+
+- Jekyll 4.0+
+- Git
 
-After deployment, test these URLs:
+### Local Development
 
-```
-# Instead of:
-https://yoursite.github.io/users/003f8d54e3768057f7ba4cd069ee02ad.html
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/brief-journal-archive.git
+   cd brief-journal-archive
+   ```
 
-# You can now use:
-https://yoursite.github.io/users/003f8d54e3768057f7ba4cd069ee02ad
+2. **Install dependencies**
+   ```bash
+   bundle install
+   ```
 
-# Instead of:
-https://yoursite.github.io/ideas/00532261a308bc92f5b9ab5a0054608d.html
+3. **Run locally**
+   ```bash
+   bundle exec jekyll serve
+   ```
 
-# You can now use:
-https://yoursite.github.io/ideas/00532261a308bc92f5b9ab5a0054608d
+4. **View the site**
+   Open [http://localhost:4000](http://localhost:4000) in your browser
+
+### Building for Production
+
+```bash
+bundle exec jekyll build
 ```
 
-## Adding the Link Handler to Existing Pages
+The generated site will be in the `_site` directory.
 
-To automatically clean up links in your existing HTML files, add this script tag before the closing `</body>` tag:
+## GitHub Pages Deployment
 
-```html
-<script src="/assets/link-handler.js"></script>
-```
+This site is configured for GitHub Pages deployment:
 
-## Troubleshooting
+1. **Push to main branch**
+   ```bash
+   git add .
+   git commit -m "Update content"
+   git push origin main
+   ```
 
-### URLs still showing 404
-- Check that GitHub Pages is enabled in repository settings
-- Verify the files are committed to your default branch
-- Wait 1-2 minutes for GitHub Pages to rebuild
+2. **GitHub Pages builds automatically**
+   - No need to commit the `_site` directory
+   - GitHub Pages runs `jekyll build` on push
+   - Site deploys to your configured domain
 
-### Jekyll not processing
-- Ensure `_config.yml` is in the repository root
-- Check GitHub Pages settings are pointing to the correct branch
-- Look for build errors in the Pages section of repository settings
+## License
 
-### Links still showing .html
-- Add the link handler JavaScript to your pages
-- Or manually update links in your HTML files to remove `.html`
-
-## File Structure
-
-```
-your-repo/
-├── _config.yml          # Jekyll configuration
-├── 404.html            # Custom 404 with redirect logic
-├── Gemfile             # Jekyll dependencies (optional)
-├── assets/
-│   └── link-handler.js # JavaScript for link handling
-├── users/
-│   └── *.html          # Your existing HTML files
-├── ideas/
-│   └── *.html          # Your existing HTML files
-└── README.md           # This file
-```
-
-## Alternative: Directory Structure Method
-
-If you prefer a different approach, you can convert your file structure:
-
-```
-# Instead of:
-users/someuser.html
-
-# Create:
-users/someuser/index.html
-```
-
-This makes `/users/someuser/` work automatically, but requires restructuring your files.
-
-## Notes
-
-- The custom 404 approach is recommended for existing sites
-- Jekyll configuration works well for new sites
-- Both methods can be used together for maximum compatibility
-- All internal links will continue to work with the `.html` extension
-- External links to your site should use the clean URLs
+This project is open source. See the original [Brief Ideas repository](https://github.com/openjournals/brief-ideas) for licensing information.
 
 ## Support
 
-This setup works with all GitHub Pages supported features and doesn't require any special permissions or paid features. 
+For technical questions about this archive:
+- Open an issue on this repository
+- Check the [original Brief Ideas GitHub](https://github.com/openjournals/brief-ideas)
+
+For questions about the Journal of Brief Ideas project:
+- See the [GitHub issue for restarting the project](https://github.com/openjournals/brief-ideas/issues/219)
+- Contact the editors via the [contact page](https://beta.briefideas.org/contact)
+
+---
+
+**Note**: This is a static archive of the original Journal of Brief Ideas. The original dynamic site was built with Ruby on Rails, but this version uses Jekyll for easier maintenance. 
